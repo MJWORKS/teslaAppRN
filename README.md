@@ -1,2 +1,2 @@
 # teslaAppRN
-Tesla App interface clone developed using React Native - Typescript
+Clone da interface do App Tesla desenvolvido utilizando React Native - Typescript
